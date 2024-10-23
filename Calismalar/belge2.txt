@@ -1,0 +1,7 @@
+git config --global user.name "Mehmet"
+git config --global user.email "asd@asd.com"
+
+git init
+git status
+git add *
+git commit -m "Dosyalar oluşturuldu."
